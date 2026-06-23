@@ -40,33 +40,56 @@ Users can upload a PDF document and ask natural language questions to retrieve t
 
 ```bash
 pip install -r requirements.txt
-
+```
 ---
 
-🚀 Run the App
+## 🚀 Running the Application
+
+Launch the Streamlit application:
+
+```bash
 streamlit run app.py
+```
 
 ---
 
-## 📌 Example Use Cases
-Chat with PDF documents
-Study notes summarization support
-Research paper exploration
-Business document search system
+## 📌 Key Use Cases
+
+* Chat with PDF documents using natural language
+* Generate concise summaries of study materials and notes
+* Explore and query research papers efficiently
+* Search and retrieve information from business documents
+* Build a knowledge assistant powered by Retrieval-Augmented Generation (RAG)
 
 ---
 
-## 🎯 Skills Demonstrated
-Natural Language Processing (NLP)
-Embedding models
-Vector databases (FAISS)
-RAG architecture
-AI application development
-End-to-end system design
+## 🎯 Technical Skills Demonstrated
+
+* Natural Language Processing (NLP)
+* Retrieval-Augmented Generation (RAG)
+* Text Embeddings and Semantic Search
+* Vector Databases (FAISS)
+* Large Language Model (LLM) Integration
+* Prompt Engineering
+* AI Application Development
+* End-to-End Machine Learning System Design
+
+---
+
+## 📈 Project Highlights
+
+* Built an intelligent document question-answering system.
+* Implemented semantic search using FAISS vector indexing.
+* Integrated LLMs to generate context-aware responses.
+* Developed an interactive web application with Streamlit.
+* Applied modern RAG architecture to improve response accuracy and relevance.
 
 ---
 
 ## 👩‍💻 Author
 
-Morufat Ganiu
-Aspiring AI/Data Scientist
+**Morufat Ganiu**
+
+Data Analyst | Aspiring AI & Data Scientist
+
+Passionate about leveraging data, machine learning, and artificial intelligence to solve real-world problems and create impactful solutions.
