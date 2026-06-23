@@ -41,15 +41,18 @@ Users can upload a PDF document and ask natural language questions to retrieve t
 ```bash
 pip install -r requirements.txt
 
+---
 🚀 Run the App
 streamlit run app.py
 
+---
 ## 📌 Example Use Cases
 Chat with PDF documents
 Study notes summarization support
 Research paper exploration
 Business document search system
 
+---
 ## 🎯 Skills Demonstrated
 Natural Language Processing (NLP)
 Embedding models
@@ -58,6 +61,7 @@ RAG architecture
 AI application development
 End-to-end system design
 
+---
 ## 👩‍💻 Author
 
 Morufat Ganiu
